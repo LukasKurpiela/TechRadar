@@ -1,0 +1,34 @@
+[
+    {
+    "type": "technique",
+    "name": "example1"
+    },
+    {
+    "type": "technique",
+    "name": "example2"
+    },
+    {
+    "type": "tool",
+    "name": "example1"
+    },
+    {
+    "type": "tool",
+    "name": "example2"
+    },
+    {
+    "type": "platform",
+    "name": "example1"
+    },
+    {
+    "type": "platform",
+    "name": "example2"
+    },
+    {
+    "type": "language_framework",
+    "name": "Java"
+    },
+    {
+    "type": "language_framework",
+    "name": "JavaScript"
+    }
+]
